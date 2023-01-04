@@ -1,0 +1,144 @@
+body{
+    text-align: center;
+    background-color: #f5ebe0;
+}
+
+.header{
+    
+    color: #FFFFFF;
+    
+
+}
+.baground-img{
+    padding-top: 100px;
+    margin: 20px auto;
+    background-image: url("images/7-Things-To-Do-in-Afghanistan6-1.jpg");
+    background-size: cover;
+    width: 720px;
+    height: 243px;
+
+}
+.Rectangle-1{
+    
+    padding: 1px auto;
+    margin: 0px auto;
+    font-size: 10px;
+    width: 225px;
+    height: 42px;
+    background-color: #1D3557;
+    
+}
+.intruduction-1{
+    padding: 3px auto;
+}
+.Rectangle-2{
+    
+
+    margin: 0px auto;
+    font-size: 20px;
+    width: 412px;
+    height: 52px;
+    background-color: #2a9d8f;
+    
+}
+.flex-bogs {
+    width: 720px;
+    display: flex;
+    justify-content:space-around;
+    
+    margin: 5px auto;
+}
+
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: 99.34px;   
+    background-size: cover; 
+
+}
+
+#flex-thingy{
+    width: 198px;
+}
+
+.the-guider{
+    width: 180px;
+    height: 248.67px;
+    background-size: cover;
+    background-image: url("images/91a7eb8e343f85bc73dc19e9bcd1bdd3.jpg");
+    
+    margin-left: 10px;
+    box-shadow:6px 6px #1D3557;;
+}
+.guiders-text{
+
+    padding: 40px 0px 0px 20px;
+    
+    width: 189px;
+    height: 71px;   
+
+}
+.card{
+    background: #A8DADC;
+    width: 440px;
+    height: 300px;
+    display: flex;
+    margin: 60px auto;
+    box-shadow:6px 6px #1D3557;;
+    
+}
+
+#border-radius10{
+    border-radius: 10px;
+}
+h1{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 37px;
+    text-align: center;
+}
+p{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #1D3557;
+    
+}
+#intruduction-2{
+    font-family: 'Arial';
+    
+    font-weight: 700;
+    font-size: 20px;
+    
+    padding: 10px ;
+    color: #FFFFFF;
+}
+h2{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    text-align: center;
+
+    color: #1D3557;
+}
+h3{
+    font-family: 'Arial';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 18px;
+    text-align: center;
+
+    color: #1D3557;
+}
+#italic {
+    font-style: italic;
+}
